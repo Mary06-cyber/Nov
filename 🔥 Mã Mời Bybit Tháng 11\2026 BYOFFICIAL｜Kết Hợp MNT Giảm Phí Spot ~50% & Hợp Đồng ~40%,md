@@ -1,0 +1,357 @@
+# 🔥 Mã Mời Bybit Tháng 11/2026 BYOFFICIAL｜Kết Hợp MNT Giảm Phí Spot ~50% & Hợp Đồng ~40%
+
+> Nếu bạn giao dịch Spot hoặc Hợp đồng trên Bybit vào tháng 11/2026, hãy hiểu ưu đãi phí giao dịch theo hai lớp: Lớp 1 là giảm 33% phí từ link mời BYOFFICIAL; Lớp 2 là ưu đãi thêm từ việc giữ và bật tính năng khấu trừ phí bằng MNT.
+
+## 📌 Tóm Tắt Nhanh BYOFFICIAL + MNT (11/2026)
+
+- Mã mời Bybit: **BYOFFICIAL**
+- Link mời: https://partner.bybit.com/b/BYOFFICIAL
+- Link BYOFFICIAL: Tích hợp sẵn **giảm 33% phí giao dịch**
+- Khấu trừ phí Spot bằng MNT: Thêm **25%**
+- Khấu trừ phí Futures bằng MNT: Thêm **10%**
+- Tổng ưu đãi Spot: Tối đa **~50%**
+- Tổng ưu đãi Futures: Tối đa **~40%**
+- Vị trí lưu MNT: Unified Trading Account (UTA)
+- Spot & Futures: Phải bật khấu trừ MNT **riêng biệt**
+- Phí cuối cùng: Dựa trên "My Fee Rate" và phí thực tế của lệnh
+
+---
+
+## 1. Mã mời Bybit tháng 11/2026 là gì?
+
+Mã mời Bybit trong bài viết này là:
+
+**BYOFFICIAL**
+
+Link đăng ký:
+
+https://partner.bybit.com/b/BYOFFICIAL
+
+Nếu bạn chưa có tài khoản Bybit, nên truy cập trang đăng ký trực tiếp qua link mời BYOFFICIAL trước khi tạo tài khoản và xác nhận mối quan hệ giới thiệu đã được áp dụng đúng.
+
+Đăng ký qua link BYOFFICIAL mang lại **giảm 33% phí giao dịch**.
+
+Lớp này là mối quan hệ giới thiệu được thiết lập khi đăng ký — khác với cơ chế dùng MNT để trả phí sau này.
+
+Vì vậy, logic hoàn chỉnh KHÔNG PHẢI:
+
+> "Có MNT tự động được tất cả ưu đãi."
+
+Mà là:
+
+> **Mối quan hệ mời BYOFFICIAL + khấu trừ phí MNT hoạt động cùng nhau.**
+
+> ⚠️ Nên xác nhận mã mời TRƯỚC KHI mở tài khoản. Nếu tài khoản đã được tạo, đừng mặc định có thể thêm hoặc sửa mối quan hệ giới thiệu sau. Cách an toàn nhất là xác nhận BYOFFICIAL trước khi gửi đăng ký.
+
+---
+
+## 2. MNT là gì? Tại sao có thể khấu trừ phí Bybit?
+
+MNT là token gốc của hệ sinh thái Mantle.
+
+Bybit đã tích hợp MNT vào hệ thống khấu trừ phí giao dịch. Người dùng đủ điều kiện nắm giữ MNT có thể dùng MNT để trả một phần phí giao dịch, nhận được khoản giảm phí tương ứng.
+
+Cấu trúc khấu trừ hiện tại:
+
+- **Spot / Spot Margin**: Dùng MNT trả phí đủ điều kiện → Giảm thêm **25%**
+- **Futures (USDT Perp/Delivery, USDC Perp)**: Dùng MNT trả phí đủ điều kiện → Giảm thêm **10%**
+
+Lưu ý quan trọng:
+
+> Chỉ mua và giữ MNT KHÔNG có nghĩa là phí sẽ tự động được khấu trừ.
+
+Để thực sự dùng MNT khấu trừ phí, bạn cần thêm:
+
+1. MNT trong Unified Trading Account (UTA)
+2. Tài khoản thuộc phạm vi hỗ trợ
+3. Bật thủ công "Using MNT for fee discount"
+4. Sản phẩm giao dịch cụ thể phải hỗ trợ khấu trừ MNT
+
+---
+
+## 3. Tại sao tổng giảm Spot là "~50%" (không phải 33% + 25% = 58%)?
+
+Hiểu ưu đãi phí Spot qua hai lớp:
+
+### Lớp 1: Giảm giá mời BYOFFICIAL
+Tài khoản tạo qua link BYOFFICIAL → **Giảm 33% phí**
+
+### Lớp 2: Khấu trừ phí Spot bằng MNT
+Giao dịch Spot/Spot Margin đủ điều kiện trả phí bằng MNT → Giảm thêm **25%**
+
+Kết hợp:
+
+> Tổng giảm phí Spot tối đa: **~50%**
+
+"Tối đa ~50%" là **ước tính ưu đãi tổng hợp**, KHÔNG đơn giản cộng 33% + 25% = 58%.
+
+Phí cuối cùng còn chịu ảnh hưởng bởi:
+
+- Cấp tài khoản
+- Cấp VIP
+- Maker / Taker
+- Sản phẩm giao dịch
+- Đã bật khấu trừ MNT chưa
+- Mức phí hiển thị hiện tại
+
+> 💡 Hiểu đúng: BYOFFICIAL giảm 33%, cộng MNT Spot 25% = tổng giảm phí Spot tối đa ~50%. Phí cuối cùng theo My Fee Rate thực tế.
+
+---
+
+## 4. Tại sao tổng giảm Hợp đồng là "~40%" (không phải 33% + 10% = 43%)?
+
+Logic tương tự Spot, nhưng tỷ lệ MNT cho Futures thấp hơn.
+
+### Giảm giá mời BYOFFICIAL
+Giảm 33% phí.
+
+### Khấu trừ phí Futures bằng MNT
+Sản phẩm Futures đủ điều kiện → Trả phí bằng MNT → Giảm thêm **10%**.
+
+Kết hợp:
+
+> Tổng giảm phí Futures tối đa: **~40%**
+
+Lại một lần nữa, KHÔNG phải 33% + 10% = 43% cố định. Tài khoản khác nhau, cấp VIP, sản phẩm, tỷ lệ Maker/Taker khác nhau — luôn kiểm tra phí thực tế.
+
+---
+
+## 5. Cách bật khấu trừ phí MNT?
+
+Chỉ giữ MNT là chưa đủ — phải bật tính năng thủ công.
+
+### App Bybit (Các bước thường gặp)
+1. Mở App Bybit
+2. Vào trang giao dịch Spot hoặc Futures
+3. Nhấn "Cài đặt thêm" hoặc menu ba chấm
+4. Tìm **"Using MNT for fee discount"**
+5. Bật công tắc
+6. Xác nhận đủ MNT trong UTA
+
+### Bản Web (Đường dẫn thường gặp)
+**Fee Rate → Using MNT for fee discount → Enable**
+
+Tên menu có thể thay đổi theo phiên bản — hãy tham khảo giao diện tài khoản hiện tại.
+
+> ⚠️ Spot và Futures phải bật RIÊNG BIỆT. Bật Spot KHÔNG tự động bật Futures, và ngược lại. Kiểm tra cả hai nếu bạn giao dịch cả hai.
+
+---
+
+## 6. MNT nên để ở đâu? Tại sao có MNT mà không khấu trừ?
+
+Để dùng MNT trả phí, MNT phải nằm trong:
+
+**Unified Trading Account (UTA)**
+
+Nếu MNT ở Funding Account, Earn, hoặc tài khoản khác, có thể KHÔNG dùng được để khấu trừ phí giao dịch.
+
+Nếu bạn có MNT nhưng sau giao dịch thấy phí không trừ bằng MNT, hãy kiểm tra lần lượt:
+
+1. MNT có trong UTA không?
+2. "Using MNT for fee discount" đã bật chưa?
+3. Spot và Futures đã bật riêng biệt chưa?
+4. Số dư MNT có đủ không?
+5. Loại lệnh có hỗ trợ khấu trừ MNT không?
+6. Loại tài khoản có đủ điều kiện không?
+7. Sản phẩm giao dịch có trong phạm vi hỗ trợ không?
+
+Nếu bất kỳ điều kiện nào không thỏa mãn, bạn có thể thấy:
+
+> Tài khoản có MNT, nhưng phí lại bị trừ bằng tài sản khác.
+
+Ngoài ra, nếu MNT có thể chuyển trong UTA không đủ để chi trả toàn bộ phí, hệ thống sẽ không khấu trừ một phần — mà chuyển sang thu toàn bộ phí bằng đồng tiền gốc, và giảm giá MNT không áp dụng.
+
+---
+
+## 7. Những giao dịch nào KHÔNG hỗ trợ khấu trừ MNT?
+
+Khấu trừ MNT không áp dụng cho mọi giao dịch, tài khoản hoặc loại lệnh.
+
+Các trường hợp loại trừ đáng chú ý:
+
+- Inverse Contracts (Hợp đồng đảo chiều)
+- Trading Bots (Bot giao dịch)
+- Copy Trading (một số lệnh người theo dõi)
+- RFQ
+- Lệnh API
+- Lệnh thanh lý (Liquidation Orders)
+- Tài khoản Market Maker
+- Một số tài khoản tổ chức
+- Một số cấu trúc người dùng Pro
+
+Vì vậy đừng mặc định:
+
+> "Tất cả phí Bybit sẽ tự động giảm thêm chỉ vì đã bật MNT."
+
+Chính xác hơn:
+
+> MNT chủ yếu khấu trừ phí cho các giao dịch đủ điều kiện. Phạm vi cụ thể tùy thuộc vào quy tắc nền tảng hiện tại và tài khoản của bạn.
+
+Ngoài ra, Funding Fee, lãi vay và các khoản phí không phải giao dịch khác KHÔNG được mặc định áp dụng giảm giá MNT.
+
+---
+
+## 8. Làm sao có MNT nếu chưa có?
+
+Các cách phổ biến:
+
+- Nạp MNT từ sàn khác hoặc ví
+- Mua MNT qua Spot trading
+- Dùng Convert đổi sang MNT
+- One-Click Buy (Mua một chạm bằng fiat)
+- Auto-Invest hoặc các phương thức hỗ trợ khác
+
+Nếu mua MNT qua Spot, tìm cặp giao dịch và hoàn tất giao dịch dựa trên số dư khả dụng.
+
+Lưu ý quan trọng:
+
+> MNT là tài sản tiền điện tử có thể giao dịch — giá biến động.
+
+Cân nhắc trước khi mua MNT chỉ để khấu trừ phí:
+
+- Biến động giá MNT
+- Tần suất giao dịch thực tế
+- Ước tính tiết kiệm được bao nhiêu phí
+- Có thực sự cần nắm giữ lượng lớn MNT lâu dài không
+
+Đừng bỏ qua rủi ro giá token chỉ vì có ưu đãi phí.
+
+---
+
+## 9. BYOFFICIAL, MNT và VIP có thể dùng cùng lúc không?
+
+Hãy hiểu ba cơ chế này là ba lớp phí khác nhau:
+
+| Cơ chế | Chức năng chính |
+|---|---|
+| BYOFFICIAL | Mối quan hệ giới thiệu khi đăng ký → Giảm 33% phí |
+| MNT | Đủ điều kiện: Spot thêm 25%, Futures thêm 10% |
+| VIP | Giảm phí giao dịch cơ bản dựa trên khối lượng/tài sản/cấp độ |
+
+Tài khoản VIP có thể áp dụng khấu trừ MNT trên mức phí VIP đã giảm.
+
+Vì vậy đừng tính phí cho mọi tài khoản bằng bảng phí cơ bản người dùng thường.
+
+Cách chính xác nhất: Kiểm tra **My Fee Rate** + bản ghi Fee thực tế sau giao dịch.
+
+---
+
+## 10. Làm sao xác nhận khấu trừ MNT thực sự đã hoạt động?
+
+Sau khi giao dịch, kiểm tra chi tiết phí qua:
+
+- Trading History (Lịch sử giao dịch)
+- Order History (Lịch sử lệnh)
+- Transaction Log (Nhật ký giao dịch)
+- Cột Fee trong chi tiết lệnh
+- Loại coin dùng trả phí
+
+Nếu khấu trừ MNT được áp dụng, bản ghi sẽ phản ánh việc sử dụng MNT.
+
+Nếu không thấy, hãy kiểm tra lại:
+
+1. MNT trong UTA?
+2. Đã bật công tắc?
+3. Đủ số dư MNT?
+4. Loại lệnh có hỗ trợ?
+5. Loại tài khoản hỗ trợ?
+6. Sản phẩm có trong phạm vi khấu trừ?
+
+Đừng chỉ dựa vào số dư MNT ví thay đổi — hãy xem chi tiết Fee của lệnh.
+
+---
+
+## 11. Câu hỏi thường gặp (FAQ) — BYOFFICIAL + MNT (11/2026)
+
+**Mã mời Bybit tháng 11/2026 là gì?**
+BYOFFICIAL. Link: https://partner.bybit.com/b/BYOFFICIAL
+
+**BYOFFICIAL giảm bao nhiêu?**
+Giảm 33% phí giao dịch tích hợp sẵn.
+
+**MNT giảm thêm bao nhiêu cho Spot?**
+Giao dịch Spot/Spot Margin đủ điều kiện trả bằng MNT → Giảm 25%.
+
+**MNT giảm thêm bao nhiêu cho Futures?**
+Giao dịch Futures đủ điều kiện trả bằng MNT → Giảm 10%.
+
+**Spot thực sự có thể đạt ~50% với BYOFFICIAL + MNT không?**
+Có — BYOFFICIAL 33% + MNT 25% = tổng giảm Spot tối đa ~50%. Futures tối đa ~40%.
+
+**Tại sao không phải 33% + 25% = 58%?**
+Các cơ chế giảm giá khác nhau không cộng dồn tuyến tính. Phí cuối phụ thuộc vào phí cơ bản, mối quan hệ mời, khấu trừ MNT và cấp tài khoản. "~50%" là ước tính tổng hợp.
+
+**Tại sao Futures không phải 33% + 10% = 43%?**
+Cùng lý do — không cộng đơn giản. Tổng giảm Futures tối đa ~40%.
+
+**Chỉ giữ MNT có tự động khấu trừ không?**
+Không. MNT phải trong UTA + bật công tắc.
+
+**Spot và Futures dùng chung công tắc?**
+Không. Phải bật riêng.
+
+**Mọi hợp đồng đều hỗ trợ MNT?**
+Không. Inverse Contracts và một số loại khác bị loại trừ. Kiểm tra sản phẩm.
+
+**Copy Trading có dùng MNT được không?**
+Một số lệnh follower Copy Trading bị loại trừ. Đừng mặc định tất cả.
+
+**Trading Bot có dùng MNT được không?**
+Bot giao dịch KHÔNG nên mặc định hỗ trợ khấu trừ MNT.
+
+**VIP có dùng MNT được không?**
+Tài khoản VIP đủ điều kiện có thể dùng MNT trên mức phí VIP. Kiểm tra My Fee Rate.
+
+**Làm sao biết thực tế tiết kiệm bao nhiêu?**
+Kiểm tra My Fee Rate + so sánh chi tiết lệnh, Trading History và bản ghi Fee sau giao dịch.
+
+**Quên dùng BYOFFICIAL khi đăng ký?**
+Nên xác nhận trước khi tạo tài khoản. Nếu đã đăng ký, đừng mặc định có thể sửa — hãy kiểm tra trạng thái mời hiện tại và quy tắc Bybit.
+
+---
+
+## ✅ Danh Sách Kiểm Tra (Checklist) BYOFFICIAL + MNT (11/2026)
+
+- [x] Mã mời Bybit: BYOFFICIAL
+- [x] Link mời: https://partner.bybit.com/b/BYOFFICIAL
+- [x] BYOFFICIAL tích hợp giảm 33% phí
+- [x] MNT Spot khấu trừ: 25%
+- [x] MNT Futures khấu trừ: 10%
+- [x] Tổng Spot tối đa ~50%
+- [x] Tổng Futures tối đa ~40%
+- [x] MNT phải trong Unified Trading Account
+- [x] Chỉ giữ MNT ≠ tự động khấu trừ
+- [x] Bật "Using MNT for fee discount"
+- [x] Bật riêng cho Spot & Futures
+- [x] Cần đủ số dư MNT
+- [x] Không phải mọi sản phẩm/lệnh đều hỗ trợ
+- [x] Inverse Contracts bị loại trừ
+- [x] Trading Bots bị loại trừ
+- [x] Một số lệnh Copy Trading bị loại trừ
+- [x] API, RFQ, Liquidation bị loại trừ
+- [x] VIP: kiểm tra My Fee Rate thực tế
+- [x] Kiểm tra bản ghi Fee sau giao dịch
+- [x] Ưu đãi cuối phụ thuộc hiển thị tài khoản
+
+---
+
+## 🎯 Quy Trình Một Dòng
+
+> Đăng ký qua BYOFFICIAL → Hoàn thành KYC → Có MNT → Chuyển MNT vào UTA → Bật khấu trừ MNT cho Spot & Futures riêng biệt → Bắt đầu giao dịch → Kiểm tra My Fee Rate → Xem lại phí lệnh thực tế.
+
+Sai lầm thường gặp: Quên BYOFFICIAL lúc đăng ký, mua MNT nhưng để sai tài khoản, chỉ bật Spot không bật Futures, mặc định mọi sản phẩm tự động giảm.
+
+Nếu bạn chưa có tài khoản Bybit:
+
+- Mã mời Bybit: **BYOFFICIAL**
+- Link mời: https://partner.bybit.com/b/BYOFFICIAL
+
+Đăng ký qua BYOFFICIAL giảm 33% phí; kết hợp khấu trừ MNT → tiết kiệm tối đa ~50% Spot / ~40% Futures.
+
+Tháng 11/2026, luôn tham khảo My Fee Rate thực tế, trạng thái MNT, loại lệnh và bản ghi Fee cuối cùng trên tài khoản Bybit của bạn.
+
+---
+
+### ⚠️ Cảnh Báo Rủi Ro
+
+Giao dịch tiền điện tử tiềm ẩn biến động giá lớn, rủi ro thanh khoản, nền tảng và quy định. Giảm giá phí KHÔNG đảm bảo lợi nhuận và KHÔNG có nghĩa nền tảng bảo đảm an toàn tài sản. Hợp đồng, đòn bẩy, phí funding có thể gây mất vốn nhanh chóng. MNT bản thân là tài sản biến động — nắm giữ MNT để khấu trừ phí cũng chịu rủi ro giá token. Chỉ dùng vốn nhàn rỗi, thử nghiệm số nhỏ trước, tự đánh giá rủi ro và luôn tham khảo điều khoản mới nhất của Bybit cùng hiển thị thực tế tài khoản.
