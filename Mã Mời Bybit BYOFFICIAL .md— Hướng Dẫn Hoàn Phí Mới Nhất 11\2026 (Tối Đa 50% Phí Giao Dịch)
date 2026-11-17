@@ -1,0 +1,229 @@
+# Mã Mời Bybit BYOFFICIAL — Hướng Dẫn Hoàn Phí Mới Nhất 11/2026 (Tối Đa 50% Phí Giao Dịch)
+
+Mã mời: BYOFFICIAL
+Link đăng ký: https://partner.bybit.com/b/BYOFFICIAL
+Ưu đãi cốt lõi: Hoàn phí giao dịch lên đến 50% trên các lệnh đủ điều kiện (spot + hợp đồng). Tỷ lệ thực tế hiển thị tại trang Hoàn phí của tài khoản.
+
+---
+
+## 1. Tại Sao Phải Gắn BYOFFICIAL Ngay Lúc Đăng Ký
+
+Bybit khóa quan hệ hoàn phí ngay khi tạo tài khoản:
+
+- Có BYOFFICIAL: phí đủ điều kiện được hoàn, tối đa 50%
+- Không có mã: trả phí đầy đủ, rất khó bù mã sau này
+- Sau khi tài khoản tồn tại, trường giới thiệu thường không thể sửa
+
+Quy tắc: gắn mã trước, rồi mới tạo tài khoản.
+
+---
+
+## 2. Biểu Phí Chuẩn 11/2026
+
+| Sản phẩm | Maker | Taker | Có MNT |
+|---|---|---|---|
+| Spot | 0.10% | 0.10% | 0.075% |
+| Hợp đồng USDT | 0.02% | 0.055% | 0.018% / 0.0495% |
+
+Quy tắc giảm phí MNT:
+
+- Spot trả bằng MNT: giảm 25%
+- Hợp đồng trả bằng MNT: giảm 10%
+- Không áp dụng: tier Pro, lệnh API, thanh lý, bot, lệnh copy trader
+- MNT và hoàn phí có cộng dồn hay không tùy kết quả tính toán trong tài khoản
+
+Thử nghiệm hoàn phí (giả sử 50%):
+
+- Hợp đồng Taker 10,000 USDT: phí 5.5 USDT, hoàn 2.75, thực trả 2.75
+- Spot 1,000 USDT: phí 1 USDT, hoàn 0.5, thực trả 0.5
+
+---
+
+## 3. Chuẩn Bị Trước Đăng Ký
+
+- Email chính dụng (Gmail / Outlook, chưa từng dùng cho Bybit)
+- Giấy tờ hợp lệ: hộ chiếu, CCCD/CMND, bằng lái
+- Số điện thoại nhận SMS
+- Google Authenticator hoặc Passkey
+- Mạng ổn định, không đổi vùng liên tục
+- Thông tin cư trú thật (sau này không đổi được)
+- Trình quản lý mật khẩu
+
+Một giấy tờ chỉ một tài khoản Bybit. Không dùng VPN giả vị trí, KYC sẽ fail.
+
+---
+
+## 4. Đăng Ký Và Gắn BYOFFICIAL
+
+Cách A — Link giới thiệu:
+
+1. Mở https://partner.bybit.com/b/BYOFFICIAL
+2. Chọn quốc gia/khu vực cư trú thật trước (sau khi gửi không đổi được)
+3. Nhập email hoặc số điện thoại
+4. Xác nhận trường Referral / Affiliate hiển thị BYOFFICIAL
+5. Hoàn thành captcha + mã xác minh
+6. Đặt mật khẩu (≥8 ký tự: hoa + thường + số + ký tự đặc biệt)
+7. Gửi và tạo tài khoản
+
+Cách B — Nhập tay:
+
+1. Đăng ký từ web chính thức
+2. Tìm trường Referral / Affiliate
+3. Nhập BYOFFICIAL (viết hoa đúng, không cách)
+4. Điền tiếp các thông tin còn lại
+
+Nếu trường bị xám hoặc hiện ID khác: xóa cache hoặc mở tab ẩn danh. Không submit khi mã chưa đúng.
+
+---
+
+## 5. Xác Minh KYC
+
+Đường dẫn: Ảnh đại diện → Tài khoản & Bảo mật → Xác minh danh tính
+
+Quy trình:
+
+1. Chọn quốc gia/khu vực (phải khớp nơi cư trú)
+2. Chọn loại giấy tờ: CMND/CCCD, hộ chiếu, bằng lái
+3. Tải giấy tờ: đủ 4 góc, không lóa, không cắt
+4. Quét khuôn mặt: tháo mũ/kính dày, làm theo hướng dẫn
+5. Một số khu vực cần chứng minh địa chỉ (hóa đơn/sao kê trong 3 tháng)
+6. Duyệt thường 15 phút đến vài tiếng
+
+Phân cấp:
+
+- Lv.1 cơ bản: nạp/giao dịch cơ bản
+- Lv.2 nâng cao: tăng hạn mức nạp fiat và rút tiền
+
+Chưa KYC: không nạp, không rút. Đạt KYC: mở spot, hợp đồng, P2P, Earn, Launchpad, copy trade.
+
+---
+
+## 6. Bảo Mật Tài Khoản
+
+Nên bật:
+
+- Google 2FA (tắt đồng bộ đám mây, lưu mã khôi phục offline)
+- Mật khẩu quỹ (khác mật khẩu đăng nhập)
+- Passkey
+- Mã chống lừa đảo
+- Khóa rút tiền địa chỉ mới
+- Quản lý thiết bị tin cậy
+
+Lưu ý:
+
+- Đặt lại mật khẩu quỹ, xóa Passkey, tắt khóa rút tiền có thể kích hoạt 24h phong tỏa rút tiền
+- Tuyệt đối không chia sẻ: mật khẩu, mã 2FA, mã SMS, cụm từ khôi phục, API Secret, mật khẩu quỹ
+- "Hỗ trợ từ xa" hay "chuyển coin kích hoạt hoàn phí" = 100% lừa đảo
+
+---
+
+## 7. Cách Nạp Tiền
+
+| Cách | Phù hợp | Chi phí |
+|---|---|---|
+| P2P / C2C | Người mới | Không phí nền tảng, có chênh lệch giá merchant |
+| Ngân hàng / bên thứ 3 | Khu vực hỗ trợ | Báo giá trước khi xác nhận |
+| Thẻ tín dụng | Cần nhanh, số nhỏ | Phí kênh + chênh lệch giá |
+| On-chain | Đã có coin | Chỉ trả gas mạng |
+| Chuyển từ sàn khác | Gộp vốn | Cùng coin + mạng, thử nhỏ |
+
+Sai mạng (ERC20/TRC20/BSC/Arbitrum) có thể mất tiền vĩnh viễn. Lần đầu gửi thử 1–2 USDT.
+
+---
+
+## 8. Bật Giảm Phí MNT (Tùy Chọn)
+
+Đường dẫn: Cài đặt tài khoản → Phí → Thanh toán bằng MNT
+
+- Spot: 0.10% → 0.075%
+- Hợp đồng Taker: 0.055% → 0.0495%
+
+Chỉ bật khi đã có MNT. Giá MNT dao động, lợi ích giảm phí có thể bị biến động token bù lại.
+
+---
+
+## 9. Lệnh Đầu Tiên Và Kiểm Tra Hoàn Phí
+
+Bắt đầu với spot, đừng mở hợp đồng ngay.
+
+Quy trình:
+
+1. Giao dịch → Spot → BTCUSDT / ETHUSDT / SOLUSDT
+2. Dùng lệnh giới hạn (phí maker thấp hơn)
+3. Mỗi lệnh 5%–10% tổng vốn
+4. Khớp xong xem cột phí trong Lịch sử khớp lệnh
+
+Cơ chế hoàn phí:
+
+- Trước tiên trừ phí tiêu chuẩn
+- Phí đủ điều kiện được hoàn theo tỷ lệ hạng
+- Chi tiết hoàn phí xem tại trang Hoàn phí giới thiệu
+
+Không hoàn phí:
+
+- Gas, phí rút tiền
+- Phí/thâm hụt giá thẻ và bên thứ 3
+- Funding fee
+- Phí thanh lý
+- Chênh lệch giá P2P
+- Chia sẻ lợi nhuận Earn
+
+---
+
+## 10. Xác Nhận BYOFFICIAL Đã Gắn
+
+4 bước kiểm tra:
+
+1. Trường giới thiệu hiển thị BYOFFICIAL lúc đăng ký
+2. Cá nhân → Hoàn phí giới thiệu có quan hệ mời
+3. Trang hoàn phí hiển thị tỷ lệ hiệu lực
+4. Sau giao dịch có dòng hoàn phí
+
+Nếu không hợp lệ: có thể cookie bị chiếm hoặc chưa thiết lập quan hệ. Liên hệ hỗ trợ trước khi mở tài khoản KYC thứ hai.
+
+---
+
+## 11. Lỗi Người Mới Thường Gặp
+
+- Để trống mã mời rồi mới gửi
+- Chọn sai khu vực cư trú → kẹt KYC
+- Dùng VPN giả vị trí
+- Chỉ bật 2FA SMS
+- Hiểu nhầm "tối đa 50%" là cố định 50% mỗi lệnh
+- Giao dịch quá mức chỉ để gom hoàn phí
+- Đòn bẩy cao mà chưa hiểu thanh lý
+- Bấm link ngoài trong chat P2P
+
+---
+
+## 12. Câu Hỏi Thường Gặp
+
+Q1: BYOFFICIAL là gì?
+A: Mã mời Bybit, thiết lập quan hệ hoàn phí cho tài khoản mới.
+
+Q2: Chắc chắn được 50%?
+A: 50% là trần. Tỷ lệ thực tế theo hạng hoàn phí và điều khoản chiến dịch.
+
+Q3: Sau này có thêm mã được không?
+A: Rất khó. Trường giới thiệu thường không đổi sau khi tạo tài khoản.
+
+Q4: MNT và hoàn phí có cộng dồn?
+A: MNT giảm phí trước, hoàn phí tính sau. Có cộng dồn hay không tùy kết quả tài khoản.
+
+Q5: Hợp đồng có hoàn phí?
+A: Có. Giao dịch hợp đồng đủ điều kiện được tính, phí Taker gốc 0.055%.
+
+Q6: Hoàn phí trả thế nào?
+A: Hiển thị tại trang Hoàn phí giới thiệu, định dạng theo tài khoản thực tế.
+
+---
+
+## Trình Tự Đúng
+
+Mở link BYOFFICIAL → chọn nơi cư trú thật → xác nhận mã đã điền → tạo tài khoản → KYC Lv.1/Lv.2 → 2FA + mật khẩu quỹ + mã chống lừa đảo → nạp P2P nhỏ → lệnh spot nhỏ → kiểm tra hoàn phí → mới cân nhắc hợp đồng
+
+Mã mời: BYOFFICIAL
+Link đăng ký: https://partner.bybit.com/b/BYOFFICIAL
+Ưu đãi cốt lõi: Hoàn phí giao dịch tối đa 50% trên spot và hợp đồng
+
+Lưu ý rủi ro: Tiền điện tử biến động mạnh. Hoàn phí không phải lợi nhuận, không bảo vệ vốn. Đòn bẩy, thanh lý, funding fee có thể thua lỗ nhanh. Khu vực hỗ trợ và biểu phí thay đổi; luôn căn cứ hiển thị trong tài khoản Bybit. Bài viết chỉ giải thích cơ chế đăng ký và hoàn phí, không phải lời khuyên đầu tư.
