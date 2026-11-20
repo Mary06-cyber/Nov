@@ -1,0 +1,346 @@
+# Mã Mời Bybit BYOFFICIAL — Hướng Dẫn Hoàn Phí Toàn Tập Tháng 11/2026
+
+Mã mời: BYOFFICIAL
+Link đăng ký: https://partner.bybit.com/b/BYOFFICIAL
+Quyền lợi cốt lõi: Hoàn phí giao dịch lên đến 50% trên các lệnh đủ điều kiện khi đăng ký qua BYOFFICIAL (tỷ lệ thực tế hiển thị tại trang Hoàn phí của tài khoản)
+
+Hướng dẫn này không đi theo lối mòn "đăng ký → KYC → nạp tiền → xong". Thay vào đó, nó bắt đầu bằng cách giúp bạn hiểu rõ con số hoàn phí, sau đó chỉ ra những bước mà hầu hết người dùng vô tình đánh mất tiền.
+
+---
+
+## 1. "Hoàn phí đến 50%" Thực Chất Là Gì
+
+Nhiều người nghĩ 50% nghĩa là phí giao dịch được giảm một nửa ngay khi đặt lệnh. Không phải. Đây là hai cơ chế hoàn toàn tách biệt:
+
+| Đối chiếu | Giảm phí | Hoàn phí giao dịch |
+|---|---|---|
+| Cách thức | Trừ theo mức phí thấp hơn ngay lúc đặt lệnh | Trừ phí tiêu chuẩn đầy đủ trước, hoàn lại sau |
+| Thời điểm | Tức thì | Dựa trên trang hoàn phí / chu kỳ thanh toán |
+| Hình thức | Bạn chỉ thấy số tiền ít hơn | Số tiền hoàn được cộng thẳng vào tài khoản |
+| Cảm nhận | Vô hình | Chỉ "cảm nhận" được khi tiền hoàn về tài khoản |
+
+Vì vậy, cột Fee trong lịch sử giao dịch ban đầu sẽ hiển thị mức phí đầy đủ. Đừng hoảng loạn — hoàn phí được tính trên một dòng riêng biệt.
+
+Ba điều cần khóa chặt:
+
+1. Cơ sở hoàn phí = số phí bạn thực sự trả, không phải khối lượng giao dịch và không phải lợi nhuận.
+2. 50% là trần, không phải sàn. Tài liệu chương trình liên kết Bybit quy định tài khoản VIP giới hạn hoàn tiền tối đa 50%; tài khoản không VIP không có giới hạn cứng nhưng tỷ lệ thực tế phụ thuộc vào cài đặt đại lý và điều khoản chiến dịch.
+3. Không gắn mã lúc đăng ký = cơ bản không thể khôi phục. FAQ cài đặt tài khoản Bybit ghi rõ: sau khi tài khoản được tạo, không thể thêm hoặc xóa mã giới thiệu nào, và bộ phận hỗ trợ sẽ không thay đổi giúp bạn.
+
+Ngoại lệ duy nhất: tài khoản chính gửi form mà hoàn toàn không điền mã có thể thêm mã liên kết trong vòng 14 ngày qua Account → Account Info → Join an Affiliate's Community. Một khi đã tham gia thì cũng bị khóa. Các trường hợp đã gắn mã, quá 14 ngày, và tài khoản phụ đều không áp dụng.
+
+---
+
+## 2. Bảng Phí Chuẩn VIP 0 Tháng 11/2026
+
+| Sản phẩm | Maker | Taker | Có MNT |
+|---|---|---|---|
+| Spot | 0.1000% | 0.1000% | 0.0750% / 0.0750% |
+| Hợp đồng USDT | 0.0200% | 0.0550% | 0.0180% / 0.0495% |
+| Hợp đồng kỳ hạn USDT | 0.0200% | 0.0550% | 0.0180% / 0.0495% |
+| Cặp fiat | 0.1500% | 0.2000% | Không áp dụng |
+| Pre-listing perpetual | 0.0400% | 0.1000% | Theo biểu phí riêng |
+| Innovation Zone | 0.0400% | 0.1100% | Theo biểu phí riêng |
+| Quyền chọn | 0.0200% | 0.0300% | Theo biểu phí riêng |
+
+Quy tắc giảm phí MNT (tháng 11/2026):
+
+- Spot giảm 25%, hợp đồng giảm 10%
+- MNT phải nằm trong Unified Trading Account (UTA)
+- Nút bật Spot và Futures tách biệt
+- Tài khoản chính bật không kế thừa sang tài khoản phụ
+- Không áp dụng: lệnh API, bot, lệnh theo copy trader, lệnh thanh lý, RFQ, hợp đồng Inverse
+- Hết MNT hệ thống tự quay về trừ phí USDT
+
+Cấp VIP dựa trên khối lượng 30 ngày hoặc số dư tài sản, lấy giá trị cao hơn, cập nhật lúc 07:00 UTC hàng ngày.
+
+---
+
+## 3. Ba Tình Huống Thực Tế — Bạn Thực Sự Trả Bao Nhiêu
+
+Giả sử đã gắn BYOFFICIAL, hạng hoàn phí 50%, bật MNT.
+
+Tình huống A: Spot 10,000 USDT mua thị trường rồi bán thị trường (hai lệnh Taker)
+
+- Phí gốc: 10 + 10 = 20 USDT
+- Sau MNT: 7.5 + 7.5 = 15 USDT
+- Hoàn 50%: nhận lại 7.5 USDT
+- Thực trả: 7.5 USDT (bằng 37.5% phí gốc)
+
+Tình huống B: Hợp đồng 10,000 USDT, mở và đóng bằng lệnh thị trường
+
+- Phí Taker gốc: 5.5 + 5.5 = 11 USDT
+- Sau MNT: 4.95 + 4.95 = 9.9 USDT
+- Hoàn 50%: nhận lại 4.95 USDT
+- Thực trả: 4.95 USDT
+
+Tình huống C: Hợp đồng dùng lệnh limit làm Maker, 10,000 USDT mở và đóng
+
+- Phí Maker gốc: 2 + 2 = 4 USDT
+- Sau MNT: 1.8 + 1.8 = 3.6 USDT
+- Hoàn 50%: nhận lại 1.8 USDT
+- Thực trả: 1.8 USDT
+
+Nhận ra quy luật chưa? Lệnh limit > giảm phí MNT > hoàn phí — cả ba lớp có thể xếp chồng. Muốn phí thấp nhất, luôn cố gắng làm Maker trước, rồi đến MNT, cuối cùng mới là hoàn phí.
+
+Lưu ý dễ nhầm: MNT giảm phí trước, hoàn phí trả lại phần trăm sau. Việc hoàn phí tính trên phí gốc hay phí đã giảm có thể khác nhau tùy hạng, hãy kiểm tra trang chi tiết hoàn phí của bạn.
+
+---
+
+## 4. Danh Sách Chuẩn Bị 10 Phút Trước Đăng Ký
+
+- Email chính dụng: Gmail / iCloud / ProtonMail, chưa từng dùng cho Bybit
+- Không dùng Apple "Hide My Email" (@privaterelay.appleid.com), dễ mất quyền truy cập khi đổi thiết bị
+- Giấy tờ hợp lệ: hộ chiếu ổn định nhất, CCCD/CMND hoặc bằng lái cũng dùng được
+- Số điện thoại nhận SMS (tên sau này phải khớp KYC)
+- Google Authenticator, tắt đồng bộ đám mây
+- Mạng ổn định, không đổi vùng VPN
+- Quốc gia/khu vực cư trú thật (gửi xong không đổi được)
+- Trình quản lý mật khẩu để tách mật khẩu đăng nhập và mật khẩu quỹ
+
+Ba nguyên tắc sắt:
+
+- Một giấy tờ = một tài khoản Bybit, mở trùng hai bên đều bị rủi ro
+- Đăng ký liên tục từ một thiết bị dễ kích hoạt rủi ro
+- Dùng ký tự bán nguyên trong tất cả các ô nhập liệu
+
+---
+
+## 5. Gắn BYOFFICIAL Lúc Đăng Ký (Bước Duy Nhất Không Thể Đảo Ngược)
+
+1. Mở https://partner.bybit.com/b/BYOFFICIAL
+2. Chọn quốc gia/khu vực cư trú thật trước (trường này không đổi sau khi gửi)
+3. Chọn đăng ký bằng email hoặc số điện thoại (khuyên dùng email)
+4. Xác nhận ô Referral / Affiliate hiển thị BYOFFICIAL
+5. Hoàn thành captcha và mã xác minh email hoặc SMS
+6. Đặt mật khẩu 8 đến 32 ký tự, có chữ hoa, chữ thường, số, ký tự đặc biệt
+7. Gửi và tạo tài khoản
+
+Xử lý ba lỗi thường gặp:
+
+- Ô trống thì tự nhập BYOFFICIAL, chú ý viết hoa và khoảng trắng
+- Ô xám hoặc hiện ID khác nghĩa là cookie bị chiếm, xóa cache hoặc mở chế độ ẩn danh
+- Đã gửi mới phát hiện chưa gắn: vào Profile → Hoàn phí giới thiệu xem thông tin người giới thiệu. Nếu trống và chưa nạp/chưa giao dịch, còn cơ hội bổ sung mã liên kết trong 14 ngày. Quá thời hạn chỉ còn cách chuyển KYC sang tài khoản mới (1 lần/6 tháng, khóa nạp rút 24–48 tiếng)
+
+Việc đầu tiên sau đăng ký: Avatar → Hoàn phí giới thiệu / My Referrals, xác nhận thông tin người giới thiệu đã xuất hiện. Nếu chưa, hãy dùng email mới tạo lại khi tài khoản còn trắng — chi phí bằng không. Đã nạp tiền mới phát hiện thì coi như chịu mức phí mặc định suốt đời.
+
+---
+
+## 6. KYC — Làm Đến Cấp Nào Đủ Dùng
+
+Đường dẫn: Ảnh đại diện → Tài khoản & Bảo mật → Xác minh danh tính
+
+| Cấp | Mở khóa | Trường hợp |
+|---|---|---|
+| Lv.0 chưa xác minh | Không nạp, không giao dịch, không hoàn phí | — |
+| Lv.1 tiêu chuẩn | Giấy tờ + quét khuôn mặt, mở spot, hợp đồng, P2P, rút tiền cơ bản | Giao dịch hàng ngày |
+| Lv.2 nâng cao | Thêm chứng minh địa chỉ, tăng hạn mức fiat và rút tiền | Nạp rút số lượng lớn |
+| Pro | Thẩm định sâu | Quy mô tổ chức |
+
+Mẹo chụp ảnh Lv.1:
+
+- Giấy tờ thực thể gốc, không chụp màn hình, không filter
+- Đủ 4 góc, không lóa, không cắt
+- Ánh sáng đều khi quét mặt, tháo mũ và kính dày
+- Duyệt thường 15 phút đến vài tiếng, ca phức tạp đến 48 tiếng
+- 5 lần bị từ chối trong 24 tiếng sẽ khóa 24 tiếng
+
+Lý do bị từ chối: giấy tờ hết hạn, thiếu góc, lóa, khuôn mặt không khớp, giấy tờ đã gắn tài khoản khác.
+
+Chứng minh địa chỉ Lv.2: hóa đơn điện nước, sao kê ngân hàng hoặc thư chính phủ trong 3 tháng (phải có họ tên và địa chỉ). Hóa đơn viễn thông, bảo hiểm, y tế thường bị từ chối.
+
+---
+
+## 7. Bộ Ba Bảo Mật + Ba Khóa (Làm Ngay Ngày Đầu)
+
+Bộ ba bắt buộc:
+
+- Google 2FA: không đồng bộ đám mây; mã khôi phục ghi giấy để offline
+- Mật khẩu quỹ: 6 số, khác hẳn mật khẩu đăng nhập, cần cho rút tiền và tạo API
+- Mã chống lừa đảo: tự đặt chuỗi ký tự, mọi email chính thức đều mang mã này. Thiếu mã coi là lừa đảo
+
+Ba khóa bổ sung:
+
+- Passkey: đăng nhập sinh trắc hoặc phần cứng
+- Danh sách trắng rút tiền: chỉ rút về địa chỉ đã duyệt
+- Khóa địa chỉ mới: thời gian làm mát sau khi thêm ví
+
+Đặt lại mật khẩu quỹ, xóa Passkey hoặc tắt khóa rút tiền đều có thể kích hoạt phong tỏa rút tiền 24 tiếng. Hãy làm một lần cho đủ.
+
+Tuyệt đối không đưa cho ai: mật khẩu đăng nhập, mã 2FA, mã SMS, seed phrase, API secret, mật khẩu quỹ.
+
+100% là lừa đảo: "nhân viên hỗ trợ nhắn tin gỡ khóa", "chuyển coin kích hoạt hoàn phí", "hỗ trợ từ xa sửa tài khoản", "link ngoài trong chat P2P". Nhân viên Bybit không bao giờ chủ động nhắn tin đòi mã hoặc yêu cầu chuyển coin.
+
+---
+
+## 8. Ba Cách Nạp Tiền, Chọn Sao Không Hối Tiếc
+
+Cách A: P2P / C2C (người mới nên chọn)
+
+- Bybit không thu phí nền tảng, bạn chịu chênh lệch giá merchant, thường 0.5% đến 1.5%
+- Đường dẫn: Mua tiền mã hóa → P2P → Mua USDT
+- Lọc merchant xác thực, hoàn thành nhiều, khối lượng lớn
+- Tên người chuyển phải trùng với tên KYC, cấm nhờ người khác chuyển hộ
+- Chỉ bấm Đã thanh toán sau khi tiền rời tài khoản
+- Chỉ chat trong Bybit, không quét QR cá nhân, không bấm link ngoài
+
+Cách B: Nạp on-chain (đã có coin)
+
+- Bybit không thu phí nạp, chỉ trả gas mạng gốc
+- Tài sản → Nạp → chọn coin và mạng
+- Cùng coin, cùng mạng là luật bất di bất dịch: ERC20 / TRC20 / BSC / Arbitrum nhầm lẫn có thể mất tiền vĩnh viễn
+- XRP, EOS, TON, XLM, ATOM cần Memo / Tag, thiếu sẽ kẹt tiền
+- Lần đầu chuyển thử 1–2 USDT trước
+
+Cách C: Thẻ ngân hàng / bên thứ ba
+
+- Cần Lv.1
+- Phí thẻ tùy đơn vị phát hành và khu vực, thẻ Visa/Mastercard ngoài EU thường khoảng 3.7%
+- Phù hợp nạp nhỏ lấy nhanh, không hợp nạp lớn
+
+---
+
+## 9. Bật Giảm Phí MNT (Tùy chọn, nên bật nếu giao dịch thường xuyên)
+
+Điều kiện: có số dư MNT trong Unified Trading Account.
+
+Đường dẫn:
+
+- Web: trang giao dịch → Fee Rate → bật Using MNT for fee discount
+- App: trang giao dịch → menu góc phải → cùng tùy chọn
+
+Bốn lưu ý:
+
+1. Spot bật một lần, Futures bật một lần, tách biệt
+2. Tài khoản chính bật không kế thừa sang tài khoản phụ
+3. Hết MNT tự quay về trừ USDT
+4. Không cần mua quá nhiều MNT, giá token dao động có thể bù mất phần chiết khấu
+
+Market maker, tổ chức, Pro, API không hỗ trợ.
+
+---
+
+## 10. Lệnh Đầu Tiên Và Kiểm Tra Hoàn Phí
+
+Bắt đầu bằng spot, chưa vội dùng đòn bẩy.
+
+1. Giao dịch → Spot → BTCUSDT, ETHUSDT hoặc SOLUSDT
+2. Dùng lệnh limit để làm maker
+3. Mỗi lệnh rủi ro 5% đến 10% tổng vốn
+4. Xem cột Fee trong Lịch sử khớp lệnh (sẽ là giá đầy đủ, bình thường)
+5. Mở trang Hoàn phí giới thiệu để xem chi tiết
+
+Không tính hoàn phí:
+
+- Gas on-chain và phí rút tiền
+- Chênh lệch giá thẻ và bên thứ ba
+- Funding fee (trả giữa long và short, không phải cho Bybit)
+- Phí thanh lý
+- Chênh lệch giá P2P
+- Lãi Earn, sản phẩm cấu trúc, chia sẻ lợi nhuận copy trading
+- Phần đã giảm MNT của lệnh API, bot, copy follower
+
+---
+
+## 11. Bốn Điều Đọc Trước Khi Dùng Đòn Bẩy
+
+- Hợp đồng perpetual không đáo hạn, giá hội tụ qua funding rate
+- Funding dương: long trả short; funding âm: short trả long; chỉ thu/chi tại thời điểm chốt nếu đang giữ vị thế
+- BTCUSDT thường chốt mỗi 8 tiếng (00:00 / 08:00 / 16:00 UTC), chuyển sang mỗi giờ khi chạm trần
+- Thanh lý dùng giá mark, không dùng giá khớp lệnh mới nhất; đòn bẩy cao vẫn nổ, hoàn phí không phòng hộ
+
+Vị thế 10,000 USDT gặp funding 0.01% tốn 1 USDT tiền thực — hoàn phí không trả khoản này.
+
+---
+
+## 12. Hoàn Phí Không Về? Kiểm Tra Bốn Lớp
+
+1. Ô giới thiệu lúc đăng ký có hiện BYOFFICIAL không
+2. Trang Hoàn phí giới thiệu có thông tin người giới thiệu không
+3. Tỷ lệ hoàn phí có khác 0% không
+4. Sau giao dịch có bản ghi hoàn phí không
+
+Nếu lớp nào đứt:
+
+- Trong 14 ngày, chưa nạp/chưa giao dịch → thử gắn cộng đồng liên kết
+- Quá 14 ngày hoặc gắn sai mã → cách chính thức là chuyển KYC sang tài khoản mới (1 lần/6 tháng, khóa 24–48 tiếng; rút hết tiền và đóng vị thế cũ trước)
+- Tuyệt đối không mở tài khoản thứ hai cùng giấy tờ
+
+---
+
+## 13. Mười Hai Lỗi Người Mới Hay Mắc
+
+- Gửi với ô giới thiệu trống
+- Chọn sai khu vực cư trú
+- Dùng VPN giả vị trí
+- Chỉ bật 2FA qua SMS
+- Trùng mật khẩu đăng nhập và quỹ
+- Hiểu nhầm 50% là mức cố định mỗi lệnh
+- Thấy phí đầy đủ tưởng hoàn phí giả, bỏ cuộc trước ngày thanh toán
+- Giao dịch quá nhiều chỉ để hút hoàn phí, lỗ nhiều hơn thu về
+- Dùng đòn bẩy 100x mà chưa hiểu thanh lý
+- Bấm link ngoài trong chat P2P
+- Chọn sai mạng nạp tiền
+- Dùng Apple Hide My Email rồi mất quyền truy cập
+
+---
+
+## 14. Kế Hoạch 7 Ngày (10–20 phút/ngày)
+
+| Ngày | Việc cần làm | Thời gian |
+|---|---|---|
+| Day 1 | Mở link BYOFFICIAL, xác nhận mã điền sẵn, kiểm tra người giới thiệu | 3 phút |
+| Day 2 | Bật Google 2FA (ghi mã khôi phục offline) + mật khẩu quỹ + mã chống lừa đảo | 15 phút |
+| Day 3 | KYC Lv.1 (đủ 4 góc, ánh sáng đều) | 10 phút + duyệt |
+| Day 4 | Thêm Passkey + danh sách trắng rút tiền + khóa địa chỉ mới | 5 phút |
+| Day 5 | Nạp P2P thử 100–200 USDT | 10–30 phút |
+| Day 6 | Lệnh limit spot BTCUSDT / ETHUSDT, 5–10% vốn | 5 phút |
+| Day 7 | Bật MNT (nếu có), kiểm tra sổ hoàn phí | 5 phút |
+
+Sau 7 ngày bạn có: tài khoản đã khóa hoàn phí, thiết lập bảo mật không bị hack, và bảng kê phí có thể đối chiếu.
+
+---
+
+## 15. FAQ Ngắn
+
+Hỏi: BYOFFICIAL là gì?
+Đáp: Mã mời Bybit thiết lập quan hệ hoàn phí lúc đăng ký.
+
+Hỏi: Có chắc chắn được 50% không?
+Đáp: Không. 50% là trần, tỷ lệ thực tế tùy thuộc hạng hoàn phí và chiến dịch.
+
+Hỏi: Có thể thêm mã sau không?
+Đáp: Về cơ bản không. Tài khoản chính chưa gắn mã có thể thêm mã Affiliate trong 14 ngày.
+
+Hỏi: MNT có xung đột với hoàn phí không?
+Đáp: Không. MNT giảm phí trước, sau đó hoàn phí mới tính.
+
+Hỏi: Hợp đồng có được hoàn phí không?
+Đáp: Có, các lệnh hợp đồng đủ điều kiện đều tính, phí Taker gốc 0.055%.
+
+Hỏi: Không KYC có nhận hoàn phí không?
+Đáp: Không, bắt buộc xác minh danh tính.
+
+Hỏi: Mở nhiều tài khoản để hút hoàn phí được không?
+Đáp: Không, một người chỉ một tài khoản xác minh.
+
+Hỏi: Khu vực bị hạn chế có dùng được không?
+Đáp: Mỹ không dùng được; EEA (trừ Malta) chuyển sang Bybit EU; Anh chỉ mở spot và P2P không có thưởng giới thiệu.
+
+Hỏi: Tài khoản phụ có tính hoàn phí cho tài khoản chính không?
+Đáp: Hoàn phí gắn ở cấp tài khoản chính, khối lượng tài khoản phụ thường tính vào hệ thống hoàn phí chính.
+
+Hỏi: Tỷ lệ hoàn phí có thể giảm sau này không?
+Đáp: Quan hệ gắn kết dài hạn nhưng hạng có thể điều chỉnh theo chính sách.
+
+---
+
+## 16. Thứ Tự Đúng Trong Một Dòng
+
+Mở link BYOFFICIAL → chọn nơi cư trú thật → xác nhận mã đã điền → tạo tài khoản → kiểm tra người giới thiệu ngay → KYC Lv.1 → 2FA + mật khẩu quỹ + Passkey + mã chống lừa đảo → nạp P2P nhỏ → lệnh spot limit → bật MNT nếu có → kiểm tra hoàn phí → mới cân nhắc hợp đồng
+
+Mã mời: BYOFFICIAL
+Link đăng ký: https://partner.bybit.com/b/BYOFFICIAL
+Quyền lợi cốt lõi: Hoàn phí giao dịch lên đến 50% trên các lệnh spot và hợp đồng đủ điều kiện
+
+Lưu ý rủi ro: Tiền mã hóa biến động mạnh. Hoàn phí không phải lợi nhuận và không bảo vệ vốn. Đòn bẩy, thanh lý, funding và trượt giá có thể gây thua lỗ nhanh. Khu vực và biểu phí thay đổi; nạp sai mạng có thể mất tiền vĩnh viễn. Thực tế dựa trên hiển thị trong tài khoản Bybit. Hướng dẫn này chỉ giải thích cơ chế đăng ký, phí và hoàn phí, không phải lời khuyên đầu tư. Tự chịu trách nhiệm mọi quyết định.
